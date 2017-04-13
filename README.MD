@@ -5,6 +5,7 @@ This is a free extension for Magento 2.1.x developed by igor Ludgero Miura. This
 **Installation**
 
 To install you can download this repository and copy to your root installation, or install using the Magento Marketplace (search by the extension name).
+ To install using composer type "composer require igorludgero/socialshare".
 
 **Configuration**
 
@@ -32,4 +33,4 @@ Save your settings and now you can see the buttons on product view page.
 
 **Linkedin:** [**https://goo.gl/1XDmW2**](https://goo.gl/1XDmW2)
 
-**Webiste/Blog:**** https://goo.gl/35JpZ4**
+**Webiste/Blog:** https://goo.gl/35JpZ4
